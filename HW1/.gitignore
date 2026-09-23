@@ -1,0 +1,7 @@
+.venv
+venv/
+__pycache__/
+*.pyc
+CMSC478-HW1.pdf
+CMSC478-HW1.png
+HW1.zip

@@ -1,0 +1,20 @@
+digraph {
+	rankdir=TB
+	1332970781808 [label="Tech Stack" fillcolor=lightblue shape=box style=filled]
+	1333406064768 [label=Remote fillcolor=lightblue shape=box style=filled]
+	1332970781808 -> 1333406064768 [label=Modern]
+	1333406068512 [label=Yes fillcolor=lightgreen shape=ellipse style=filled]
+	1333406064768 -> 1333406068512 [label=Yes]
+	1333406069472 [label="Salary High" fillcolor=lightblue shape=box style=filled]
+	1333406064768 -> 1333406069472 [label=No]
+	1333406070816 [label=Yes fillcolor=lightgreen shape=ellipse style=filled]
+	1333406069472 -> 1333406070816 [label=Yes]
+	1333406071488 [label=Benefits fillcolor=lightblue shape=box style=filled]
+	1333406069472 -> 1333406071488 [label=No]
+	1333406072496 [label=No fillcolor=lightgreen shape=ellipse style=filled]
+	1333406071488 -> 1333406072496 [label=Good]
+	1333406072592 [label=Yes fillcolor=lightgreen shape=ellipse style=filled]
+	1333406071488 -> 1333406072592 [label=Poor]
+	1333406063808 [label=No fillcolor=lightgreen shape=ellipse style=filled]
+	1332970781808 -> 1333406063808 [label=Legacy]
+}

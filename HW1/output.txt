@@ -1,0 +1,21 @@
+Tree:
+ Feature: Tech Stack
+ Value: Modern
+     Feature: Remote
+     Value: Yes
+         Label: Yes
+     Value: No
+         Feature: Salary High
+         Value: Yes
+             Label: Yes
+         Value: No
+             Feature: Benefits
+             Value: Good
+                 Label: No
+             Value: Poor
+                 Label: Yes
+ Value: Legacy
+     Label: No
+
+Prediction for (Remote: Yes, Salary: No, Tech: Legacy, Benefits: Poor)
+Prediction: No

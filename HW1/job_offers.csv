@@ -1,0 +1,17 @@
+﻿Remote,Salary High,Tech Stack,Benefits,Accept Offer?
+Yes,Yes,Modern,Good,Yes
+Yes,Yes,Legacy,Good,No
+No,Yes,Modern,Good,Yes
+Yes,No,Modern,Good,Yes
+No,No,Legacy,Poor,No
+No,Yes,Modern,Poor,Yes
+Yes,No,Legacy,Good,No
+No,No,Modern,Good,No
+Yes,Yes,Modern,Poor,Yes
+Yes,Yes,Legacy,Poor,No
+No,Yes,Legacy,Good,No
+No,No,Legacy,Good,No
+Yes,No,Modern,Poor,Yes
+No,No,Modern,Poor,Yes
+Yes,No,Legacy,Poor,No
+No,Yes,Legacy,Poor,No
