@@ -1,0 +1,7 @@
+.venv
+venv/
+__pycache__/
+*.pyc
+HW3.zip
+# File is too large to upload to GitHub, so it is ignored in the .gitignore file.
+creditcard.csv
